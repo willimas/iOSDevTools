@@ -13,8 +13,7 @@ Aplicativos, Ferramentas e Projetos que utilizo no meu desenvolvimento iOS
 * [Lin](https://github.com/questbeat/Lin-Xcode5) Ajuda com as String do Localization http://questbe.at/lin/    
 * [SCXcodeMiniMap](https://github.com/stefanceriu/SCXcodeMiniMap) Xcode MiniMap plugin    
 * [BBUUtilitiesTuckAway](https://github.com/neonichu/BBUUtilitiesTuckAway) Esconde a área de utilidades quando no code editor.   
-* [AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) Aumenta o tamanho da fonte do Xcode com "⌘ +  
-
+* [AdjustFontSize-Xcode-Plugin](https://github.com/zats/AdjustFontSize-Xcode-Plugin) Aumenta o tamanho da fonte do Xcode com "⌘ +"
 
 #Cache
 * [SDWebImage](https://github.com/rs/SDWebImage)  Asynchronous image downloader with caching    
@@ -24,4 +23,12 @@ Aplicativos, Ferramentas e Projetos que utilizo no meu desenvolvimento iOS
 * [RestKit](https://github.com/RestKit/RestKit)  Consumo de recursos RESTful
 * [Reachability](https://github.com/tonymillion/Reachability) Classe Apple Modificada para verificar conectividade
 * [AFNetworkActivityLoggerv](https://github.com/AFNetworking/AFNetworkActivityLogger) AFNetworking 2.0 Extensão logger
+
+#File System
+* [FCFileManager](https://github.com/fabiocaccamo/FCFileManager) Simplifica o Gerenciamento de Arquivos
+
+#APNS tools
+* [APNS-Pusher](https://github.com/blommegard/APNS-Pusher)Envio de Notificações Push
+
+
 
